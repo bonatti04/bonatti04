@@ -1,9 +1,7 @@
 # Olá, me chamo Luiz Felipe Bonatti ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Here are some ideas to get you started:
-
-- 🔭 Atualmente estou trabalhando em Nogueira e Tognin Advogados Associados
+- 🔭 Já trabalhei na Nogueira e Tognin Advogados Associados como desenvolvedor
 - 🌱 Atualmente estou aprendendo
 
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
